@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hassan Jamshaid</h1>
-<h3 align="center">Hi there! 👋 I'm a Full Stack Developer I specialize in building scalable and high-performance applications using a range of modern technologies. My passion lies in solving complex problems and creating seamless user experiences, both on the frontend and backend.<br> 🔧 Tech Stack: Frontend: React, Angular, TypeScript, JavaScript</br> <br>Backend: Spring Boot, Kafka, Java, C++ </br> <br>Database: PostgreSQL, Mysql, MongoDB, Redis </br> <br>Other Skills: 3D Computer Graphics</br> <br>I enjoy working on diverse projects, from web applications to more computationally intensive tasks involving 3D graphics. Always keen to collaborate on innovative projects and explore new technologies!</br></h3>
+<h3 align="center">Hi there! 👋 I'm a Full Stack Developer
+I specialize in building scalable and high-performance applications using a range of modern technologies. My passion lies in solving complex problems and creating seamless user experiences, both on the frontend and backend. <br><br>
+
+🔧 Tech Stack:
+Frontend: React,Angular, TypeScript, JavaScript <br>
+Backend: Spring Boot, Kafka, Java, Node Js, Php <br>
+Database: PostgreSQL, MySql, MonogoDb, Redis <br>
+Other Skills: 3D Computer Graphics, C++ <br><br>
+I’ve also worked as a Full Stack Intern at NetSol Technologies Inc., where I contributed to various full stack projects and gained hands-on experience in enterprise-level application development. <br><br>
+
+I'm always keen to collaborate on innovative projects and explore new technologies!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-jamshaid10&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-jamshaid10" /> </p>
 

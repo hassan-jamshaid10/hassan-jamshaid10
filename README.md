@@ -3,7 +3,7 @@
 I specialize in building scalable and high-performance applications using a range of modern technologies. My passion lies in solving complex problems and creating seamless user experiences, both on the frontend and backend. <br><br>
 
 🔧 Tech Stack:<br><br>
-Frontend: React,Angular, TypeScript, JavaScript <br>
+Frontend: React,Angular, TypeScript, JavaScript, TailwindCss, Sass <br>
 Backend: Spring Boot, Kafka, Java, Node Js, Php <br>
 Database: PostgreSQL, MySql, MonogoDb, Redis <br>
 Other Skills: 3D Computer Graphics, C++ <br><br>

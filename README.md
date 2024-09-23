@@ -19,6 +19,8 @@ I'm always keen to collaborate on innovative projects and explore new technologi
 
 - 💬 Ask me about **react, springboot, Typescript, JavaScript and Kafka**
 
+- My portfolio : https://portfolio-fullstack-plum.vercel.app/
+
 - 📫 How to reach me **hjamshaid81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

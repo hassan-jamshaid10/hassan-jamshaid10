@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋 I'm a Full Stack Developer I specialize in building scalable and high-performance applications using a range of modern technologies. My passion lies in solving complex problems and creating seamless user experiences, both on the frontend and backend.<br><br>🔧 Tech Stack:<br><br>Frontend: React,Angular, TypeScript, JavaScript, TailwindCss, Sass<br>Backend: Spring Boot, Kafka, Java, Node Js, Php<br>Database: PostgreSQL, MySql, MonogoDb, Redis<br>Other Skills: 3D Computer Graphics, C++<br><br>I’ve also worked as a Full Stack Intern at NetSol Technologies Inc., where I contributed to various full stack projects and gained hands-on experience in enterprise-level application development.<br><br><br>I'm always keen to collaborate on innovative projects and explore new technologies!
 
-# 🌐 Portfolio: www.hassanjamshaid.ms
+## 🌐 Portfolio: www.hassanjamshaid.me
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hassan_.jamshaid2220) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hassan_.jamshaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanjamshaid10) 

@@ -88,11 +88,5 @@ Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on cra
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hassan-jamshaid10&icon=0&color=4" />
-</p>
-
----
-
-<p align="center">
   <a href="https://www.hassanjamshaid.me" target="_blank">❤️ Made with love by Hassan Jamshaid</a>
 </p>

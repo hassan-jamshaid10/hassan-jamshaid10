@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hassan Jamshaid 👋</h1>
+<h1 align="center" style="color:#00BFFF;">Hi, I'm Hassan Jamshaid 👋</h1>
 <p align="center">
   🚀 Full Stack Developer | AI Engineer | Deep Learning Explorer
 </p>
@@ -10,11 +10,11 @@
   <a href="https://instagram.com/hassan_.jamshaid" target="_blank">Instagram</a>
 </p>
 
----
+<hr style="border: 1px solid #00BFFF;" />
 
 ## 💫 About Me
 
-Hi there! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on crafting high-performance applications with modern technologies. I specialize in developing scalable backend systems, intuitive frontends, and smart AI-driven features.
+Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on crafting high-performance applications with modern technologies. I specialize in developing scalable backend systems, intuitive frontends, and smart AI-driven features.
 
 🔹 Ex-Full Stack Intern at **NetSol Technologies Inc.**  
 🔹 Love solving real-world problems with Deep Learning, ML, and automation  
@@ -53,7 +53,7 @@ Hi there! I'm a passionate **Full Stack Developer** and **AI Engineer** focused 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ DevOps & Tools
+### ⚙️ DevOps & Tools
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -62,15 +62,15 @@ Hi there! I'm a passionate **Full Stack Developer** and **AI Engineer** focused 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan-jamshaid10&theme=gradient&show_icons=true&hide_border=false&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-jamshaid10&theme=gradient&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan-jamshaid10&theme=blueberry&show_icons=true&hide_border=false&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-jamshaid10&theme=blueberry&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-jamshaid10&layout=compact&theme=gradient&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-jamshaid10&layout=compact&theme=blueberry&hide_border=false"/>
 </p>
 
 ---
@@ -91,4 +91,8 @@ Hi there! I'm a passionate **Full Stack Developer** and **AI Engineer** focused 
   <img src="https://visitcount.itsvg.in/api?id=hassan-jamshaid10&icon=0&color=4" />
 </p>
 
-<!-- Made with ❤️ by Hassan Jamshaid -->
+---
+
+<p align="center">
+  <a href="https://www.hassanjamshaid.me" target="_blank">❤️ Made with love by Hassan Jamshaid</a>
+</p>

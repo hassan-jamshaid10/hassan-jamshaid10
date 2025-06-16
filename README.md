@@ -80,6 +80,7 @@ Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on cra
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hassan-jamshaid10&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
 </p>
+---
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=hassan-jamshaid10&limit=5&theme=blueberry" />

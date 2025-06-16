@@ -12,7 +12,7 @@
 
 <hr style="border: 1px solid #00BFFF;" />
 
-## 💫 About Me
+<h2 style="color:#00BFFF;">💫 About Me</h2>
 
 Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on crafting high-performance applications with modern technologies. I specialize in developing scalable backend systems, intuitive frontends, and smart AI-driven features.
 
@@ -22,10 +22,11 @@ Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on cra
 
 ---
 
-## 🧠 Tech Stack
+<h2 style="color:#00BFFF;">🧠 Tech Stack</h2>
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,7 +38,6 @@ Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on cra
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🧬 AI / ML / Deep Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,16 +53,19 @@ Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on cra
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ DevOps & Tools
+### ☁️ Cloud & CI/CD
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ⚙️ Tools
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+<h2 style="color:#00BFFF;">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassan-jamshaid10&theme=blueberry&show_icons=true&hide_border=false&border_radius=10" height="180"/>
@@ -75,13 +78,14 @@ Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on cra
 
 ---
 
-## 🏆 Achievements 
+<h2 style="color:#00BFFF;">🏆 Achievements</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hassan-jamshaid10&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
 </p>
 
-## Contributions
+<h2 style="color:#00BFFF;">📌 Contributions</h2>
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=hassan-jamshaid10&limit=5&theme=blueberry" />
 </p>

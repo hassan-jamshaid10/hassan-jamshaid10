@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hassanjamshaid.me" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.hassanjamshaid.tech" target="_blank">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/hassanjamshaid10" target="_blank">LinkedIn</a> •
   <a href="https://discord.gg/uFYvfPxb" target="_blank">Discord</a> •
   <a href="https://instagram.com/hassan_.jamshaid" target="_blank">Instagram</a>

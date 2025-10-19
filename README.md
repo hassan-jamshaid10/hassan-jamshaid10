@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#00BFFF;">Hi, I'm Hassan Jamshaid 👋</h1>
 <p align="center">
-  🚀 Full Stack Developer | AI Engineer | Deep Learning Explorer
+  🚀 Full Stack Developer | Machine Learning Explorer
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <h2 style="color:#00BFFF;">💫 About Me</h2>
 
-Hi! I'm a passionate **Full Stack Developer** and **AI Engineer** focused on crafting high-performance applications with modern technologies. I specialize in developing scalable backend systems, intuitive frontends, and smart AI-driven features.
+Hi! I'm a passionate **Full Stack Developer** focused on crafting high-performance applications with modern technologies. I specialize in developing scalable backend systems, intuitive frontends, and smart AI-driven features.
 
 🔹 Ex-Full Stack Intern at **NetSol Technologies Inc.**  
 🔹 Love solving real-world problems with Deep Learning, ML, and automation  
